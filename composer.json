@@ -1,5 +1,5 @@
 {
-    "name": "otus/test-package",
+    "name": "brzhkv/otus-test-package",
     "type": "library",
     "autoload": {
         "psr-4": {
