@@ -1,0 +1,16 @@
+{
+    "name": "otus/test-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Otus\\TestPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Petr Berezhkov",
+            "email": "petr.berezhkov@gmail.com"
+        }
+    ],
+    "require": {}
+}
